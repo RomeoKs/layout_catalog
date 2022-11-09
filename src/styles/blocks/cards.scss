@@ -1,0 +1,7 @@
+.cards {
+  width: 2 * $paddingX + 3 * $gapX + 4 * $cardWitdh;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 46px 48px;
+  gap: 0 48px;
+}
